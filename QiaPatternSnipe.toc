@@ -1,0 +1,8 @@
+## Interface: 11506
+## Title: Qia Pattern Snipe
+## Author: Blazeflack
+## Version: 1.2
+## Notes: An addon to snipe Qia's vendor patterns.
+## SavedVariables: QiaPatternSnipeDB
+
+QiaPatternSnipe.lua

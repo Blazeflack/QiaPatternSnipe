@@ -1,5 +1,5 @@
 # QiaPatternSnipe
-Addon for Classic Era to help quickly purchase limited patterns from the NPC named Qia in Everlook (Winterspring)
+Addon for WoW Classic Era to help quickly purchase limited patterns from the NPC named Qia in Everlook (Winterspring)
 
 ![image](https://github.com/user-attachments/assets/66a019d3-b0bc-4525-af56-9c7ea7bf6a72)
 
